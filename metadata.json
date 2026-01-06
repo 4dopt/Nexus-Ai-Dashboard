@@ -1,0 +1,7 @@
+{
+  "name": "RestoAI Command",
+  "description": "A dark-mode, mobile-first AI dashboard for restaurant management featuring real-time booking updates, knowledge base training, and analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
